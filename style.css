@@ -1,0 +1,58 @@
+ h1 {
+    color: rgb(68, 104, 79);
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+
+/* * {
+    border: solid;
+} */
+body{
+    background-color: rgb(127, 195, 147); 
+}
+
+.header{
+    background-color: rgb(171, 241, 180);
+    display: flex;
+    justify-content: space-between;
+    padding-top :40px;
+    height: 40%;
+}
+.oi{
+    background-color: rgb(19, 80, 52);
+    display: flex;
+    justify-content: space-between;
+    padding-top :40px;
+    height: 40%;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+    color:rgb(68, 104, 80);
+    font-family: 'Poiret One', cursive;
+}
+.Menu{
+    font-size: 30%;
+}
+
+
+
+  
+  
